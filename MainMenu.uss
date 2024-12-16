@@ -1,0 +1,62 @@
+.panel {
+    background-color: rgba(94, 27, 27, 0.77);
+}
+
+.hidden {
+    display: none;
+}
+
+.menu {
+    align-items: stretch;
+    justify-content: center;
+    flex-grow: 0;
+}
+
+.unity-button {
+    flex-grow: 1;
+    border-left-width: 0;
+    border-right-width: 9px;
+    border-top-width: 9px;
+    border-bottom-width: 9px;
+    border-left-color: rgba(0, 97, 115, 0.41);
+    border-right-color: rgba(0, 97, 115, 0.41);
+    border-top-color: rgba(0, 97, 115, 0.41);
+    border-bottom-color: rgba(0, 97, 115, 0.41);
+    background-color: rgb(64, 116, 132);
+    font-size: 80px;
+    -unity-text-align: middle-center;
+    -unity-font-style: bold;
+    color: rgb(217, 231, 23);
+    word-spacing: 23px;
+    letter-spacing: 1px;
+    -unity-text-outline-width: 10px;
+    -unity-text-outline-color: rgb(12, 79, 14);
+    -unity-font: url('project://database/Assets/GameFonts/LifeCraft_Font.ttf?fileID=12800000&guid=a513b99792d4c6f479587592afcf5b07&type=3#LifeCraft_Font');
+    -unity-font-definition: none;
+    border-top-left-radius: 23px;
+    border-bottom-left-radius: 23px;
+    border-top-right-radius: 23px;
+    border-bottom-right-radius: 23px;
+    display: flex;
+    white-space: normal;
+    visibility: visible;
+    overflow: visible;
+    flex-shrink: 1;
+    -unity-background-image-tint-color: rgb(202, 202, 202);
+}
+
+.unity-button:hover {
+    background-color: rgb(244, 255, 18);
+    scale: 1.5 1;
+    transform-origin: left;
+    font-size: 20px;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    color: rgba(254, 255, 249, 255);
+    flex-grow: 0.1;
+}
+
+.Slider Label {
+}
+
+.unity-text-element {
+}

@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Overhear.uss?fileID=7433441132597879392&amp;guid=3b3489d8233069e4f983489c1d3ca213&amp;type=3#Overhear" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="Label" display-tooltip-when-elided="true" name="NPCChat" style="flex-grow: 0.2; background-color: rgba(0, 0, 0, 0); font-size: 40px; -unity-text-align: middle-center; -unity-font: url(&apos;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=a2811ac3df40d434ba71a7aa6c6790bf&amp;type=3#NotInter-Regular&apos;); -unity-font-style: normal; color: rgba(255, 254, 254, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

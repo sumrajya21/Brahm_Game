@@ -1,0 +1,53 @@
+.panel {
+    background-color: rgba(204, 188, 45, 0.67);
+    -unity-text-outline-width: 1px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: rgb(2, 2, 2);
+    border-right-color: rgb(2, 2, 2);
+    border-top-color: rgb(2, 2, 2);
+    border-bottom-color: rgb(2, 2, 2);
+    -unity-font: url('project://database/Assets/SAMAN___.TTF?fileID=12800000&guid=aea1e730fd1738d43b6d60f42d5db3fb&type=3#SAMAN___');
+    font-size: 50px;
+    -unity-text-align: upper-center;
+    color: rgb(255, 254, 254);
+}
+
+.unity-button {
+    flex-grow: 0.15;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: rgb(255, 255, 255);
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    opacity: 0.56;
+    font-size: 50px;
+    -unity-font-style: bold;
+    scale: 1.1 1;
+    -unity-font: url('project://database/Assets/GameFonts/Dialogues%20Font%20-%20DidactGothic-Regular.ttf?fileID=12800000&guid=fc65dbdd7b2c1804eb9e09cdd8c7bd9b&type=3#Dialogues Font - DidactGothic-Regular');
+    -unity-font-definition: none;
+    flex-wrap: wrap;
+    -unity-text-align: middle-center;
+}
+
+.unity-button:hover {
+    scale: 1 1.1;
+    background-color: rgba(24, 6, 2, 0.43);
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0.42);
+    font-size: 50px;
+    color: rgb(255, 242, 0);
+}

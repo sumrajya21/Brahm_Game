@@ -1,0 +1,6 @@
+.unity-label {
+    font-size: 50px;
+    -unity-font: url('project://database/Assets/GameFonts/Dialogues%20Font%20-%20DidactGothic-Regular.ttf?fileID=12800000&guid=fc65dbdd7b2c1804eb9e09cdd8c7bd9b&type=3#Dialogues Font - DidactGothic-Regular');
+    -unity-font-definition: none;
+    color: rgba(7, 0, 0, 255);
+}
